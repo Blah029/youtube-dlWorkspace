@@ -1,5 +1,5 @@
 # youtube-dlWorkspace
-Files from my workspace for [youtube-dl](https://github.com/ytdl-org/youtube-dl) by [ytdl-org](https://github.com/ytdl-org).
+Files from my workspace for [youtube-dl](https://github.com/ytdl-org/youtube-dl).
 
 - youtube-ld_cd
   - Drag to cmd to quickly change to install directory.
